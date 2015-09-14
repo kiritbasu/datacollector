@@ -11,9 +11,8 @@
   See the License for the specific language governing permissions and
   limitations under the License. See accompanying LICENSE file.
 --->
-<img style="width:100%;" src="datacollector-splash.png">
+<img style="width:100%;" src="datacollector_splash.png">
 
-[StreamSets](http://streamsets.com)
 =================
 
 What is StreamSets Data Collector?
