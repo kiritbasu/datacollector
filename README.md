@@ -13,8 +13,6 @@
 --->
 <img style="width:100%;" src="datacollector_splash.png">
 
-=================
-
 What is StreamSets Data Collector?
 -----------
 
